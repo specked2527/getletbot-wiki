@@ -28,6 +28,10 @@ icon: dragon
 - `/m 喜报`    
 
 支持的表情: [点击查看](https://github.com/MeetWq/meme-generator/wiki/%E8%A1%A8%E6%83%85%E5%88%97%E8%A1%A8)
+
+额外的表情: [点击查看](https://github.com/MeetWq/meme-generator-contrib)
+
+
 :::
 
 ## 功能预览
